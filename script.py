@@ -9,4 +9,3 @@ def fibo(n):
 print(fibo(0))
 print(fibo(1))
 print(fibo(10))
-print(fibo(-1))
